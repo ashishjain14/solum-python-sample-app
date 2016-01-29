@@ -1,3 +1,3 @@
 # solum-python-sample-app
-Sample Solum python app1
+Sample Solum python app2
 
