@@ -3,7 +3,7 @@ name: cherrypy
 description: python web app
 languagepack: python
 source:
-  repository: https://github.com/rackspace-solum-samples/solum-python-sample-app.git
+  repository: https://github.com/ashishjain14/solum-python-sample-app.git
   revision: master
 workflow_config:
   test_cmd: ./unit_tests.sh
